@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+processed/
+*.log
+*.duckdb
+*.parquet
+data/*.csv
+data/*.xlsx
+data/*.xls
+!sample_data/
+.DS_Store

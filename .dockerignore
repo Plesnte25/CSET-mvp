@@ -1,0 +1,9 @@
+.git
+.env
+__pycache__
+*.pyc
+.venv
+processed
+*.log
+data/*.csv
+data/*.xlsx
